@@ -46,15 +46,15 @@
 
       <!-- You only need to change these information, starts here! -->
       <p>Here is the information you need to change:</p>
-      <span class="badge badge-primary">Dang Vu Thang</span>
+      <span class="badge badge-primary">Dang Vu Thang 1</span>
       <br />
-      <span class="badge badge-secondary">s3879303</span>
+      <span class="badge badge-secondary">s3879303 1</span>
       <br />
-      <span class="badge badge-success">IT</span>
+      <span class="badge badge-success">IT 1</span>
       <br />
-      <span class="badge badge-danger">Playing soccer</span>
+      <span class="badge badge-danger">Playing soccer 1</span>
       <br />
-      <span class="badge badge-warning">JavaScript</span>
+      <span class="badge badge-warning">JavaScript 1</span>
       <!-- You only need to change these information, ends here! -->
     </div>
     <!-- The content of the website ends here! -->
