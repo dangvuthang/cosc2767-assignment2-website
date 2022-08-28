@@ -52,7 +52,7 @@
       <br />
       <span class="badge badge-success">NO</span>
       <br />
-      <span class="badge badge-danger">---------</span>
+      <span class="badge badge-danger">---------dsadasdasdasdasdasd</span>
       <br />
       <span class="badge badge-warning">-----------</span>
       <!-- You only need to change these information, ends here! -->
