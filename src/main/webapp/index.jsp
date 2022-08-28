@@ -46,15 +46,15 @@
 
       <!-- You only need to change these information, starts here! -->
       <p>Here is the information you need to change:</p>
-      <span class="badge badge-primary">NONAME 111111111111111</span>
+      <span class="badge badge-primary">LAST TEST....</span>
       <br />
-      <span class="badge badge-secondary">NOID</span>
+      <span class="badge badge-secondary">LAST TEST.....</span>
       <br />
-      <span class="badge badge-success">NO</span>
+      <span class="badge badge-success">LAST TEST.....</span>
       <br />
-      <span class="badge badge-danger">---------dsadasdasdasdasdasd</span>
+      <span class="badge badge-danger">LAST TEST.....</span>
       <br />
-      <span class="badge badge-warning">-----------</span>
+      <span class="badge badge-warning">LAST TEST.....</span>
       <!-- You only need to change these information, ends here! -->
     </div>
     <!-- The content of the website ends here! -->
