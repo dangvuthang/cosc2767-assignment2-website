@@ -46,7 +46,7 @@
 
       <!-- You only need to change these information, starts here! -->
       <p>Here is the information you need to change:</p>
-      <span class="badge badge-primary">NONAME</span>
+      <span class="badge badge-primary">NONAME 111111111111111</span>
       <br />
       <span class="badge badge-secondary">NOID</span>
       <br />
