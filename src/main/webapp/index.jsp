@@ -46,13 +46,13 @@
 
       <!-- You only need to change these information, starts here! -->
       <p>Here is the information you need to change:</p>
-      <span class="badge badge-primary">LAST TEST....</span>
+      <span class="badge badge-primary">LAST TEST....1</span>
       <br />
-      <span class="badge badge-secondary">LAST TEST.....</span>
+      <span class="badge badge-secondary">LAST TEST.....1</span>
       <br />
-      <span class="badge badge-success">LAST TEST.....</span>
+      <span class="badge badge-success">LAST TEST.....1</span>
       <br />
-      <span class="badge badge-danger">LAST TEST.....</span>
+      <span class="badge badge-danger">LAST TEST.....1</span>
       <br />
       <span class="badge badge-warning">LAST TEST.....</span>
       <!-- You only need to change these information, ends here! -->
